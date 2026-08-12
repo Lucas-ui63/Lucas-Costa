@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Lucas Costa from Brazil<br><br>-👨‍💻 Computer Science Student | Class of 2026 <br>- 📈 Focused on Data Science, ETL Pipelines, and Machine Learning. <br>- 🐍 Python Developer | Open Source</p>
+<p data-importer="text" align="left">I'm Lucas Costa from Brazil<br><br>- 📈Focused on Data Science <br>- 📊ETL Pipelines <br>- 🤖Machine Learning. <br>- 🐍 Python Developer | Open Source</p>
 
 ###
 
