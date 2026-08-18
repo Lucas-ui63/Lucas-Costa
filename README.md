@@ -19,15 +19,15 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there</h1>
+<h1 data-importer="text" align="center">Hey there</h1>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">I'm Lucas Costa from Brazil<br><br>- 📈Focused on Data Science <br>- 📊ETL Pipelines <br>- 🤖Machine Learning. <br>- 🐍 Python Developer | Open Source</p>
+<p data-importer="text" align="left">I'm Lucas Costa, a Computer Science student from Brazil.<br><br>- Focused on Data Science <br>- ETL Pipelines <br>- Machine Learning <br>- Python Developer | Open Source</p>
 
 ###
 
